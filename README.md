@@ -1,5 +1,5 @@
 # Projeto feito durante o curso da Alura sobre JavaScript
-![manipulando o DOM](https://github.com/GabrielVictorP/Robotron-2000-/assets/133161909/5427788b-e606-4513-a186-9ecfb564415b)
+![manipulando o DOM](https://github.com/GabrielVictorP/Robotron-2000/assets/133161909/2afeff7b-3204-4924-aa6f-3d8ee5f61486)
 
 # Robotron-2000
 O Robotron é um jogo em que você pode desenvolver seu próprio Robo, escolhendo a cor dele, força e muito mais
@@ -9,8 +9,10 @@ O Robotron é um jogo em que você pode desenvolver seu próprio Robo, escolhend
 - `CSS`
 - `JavaScript`
 # Conforme podemos ver abaixo
-![robo-amarelo](https://github.com/GabrielVictorP/Robotron-2000-/assets/133161909/88647862-274e-4594-aff8-586998ae7ff5)
-![robo-vermelho](https://github.com/GabrielVictorP/Robotron-2000-/assets/133161909/4944fd35-ce0b-46f6-88bd-23ad902e0d3c)
+![robo-vermelho](https://github.com/GabrielVictorP/Robotron-2000/assets/133161909/37728bc4-5a7a-4682-8516-4a0a80a395f6) </br></br></br></br></br></br>
+![robo-amarelo](https://github.com/GabrielVictorP/Robotron-2000/assets/133161909/ed489932-5a5e-41a6-897d-415b40cda88f)
+
 
 Feito com layout apenas para computador.
 # Para você testar o projeto, acesse esse link
+https://gabrielvictorp.github.io/Robotron-2000/
