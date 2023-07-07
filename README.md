@@ -16,3 +16,6 @@ O Robotron é um jogo em que você pode desenvolver seu próprio Robo, escolhend
 Feito com layout apenas para computador.
 # Para você testar o projeto, acesse esse link
 https://gabrielvictorp.github.io/Robotron-2000/
+
+#Informações importante: 
+Quando entrar no site para que um robo apareça, aperte em algum "Robotron"
