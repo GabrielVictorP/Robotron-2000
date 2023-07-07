@@ -18,4 +18,4 @@ Feito com layout apenas para computador.
 https://gabrielvictorp.github.io/Robotron-2000/
 
 #Informações importante: 
-Quando entrar no site para que um robo apareça, aperte em algum "Robotron"
+# Quando entrar no site para que um robo apareça, aperte em algum "Robotron"
